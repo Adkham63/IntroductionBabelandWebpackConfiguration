@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("h3");e.textContent="WebPack and Babel Configuration",document.querySelector("body").append(e)})();
